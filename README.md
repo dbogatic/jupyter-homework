@@ -20,7 +20,7 @@ In this homework assignment, you will be accomplishing three main tasks:
 
 ## Instructions
 
-**File:** [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb)
+**File:** [Whale Analysis Starter Code](whale_analysis.ipynb)
 
 ### Prepare the Data
 
